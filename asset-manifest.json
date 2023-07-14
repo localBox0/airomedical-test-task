@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airomedical-test-task/static/css/main.72f33312.css",
+    "main.js": "/airomedical-test-task/static/js/main.d9e8e13a.js",
+    "static/js/787.0814f333.chunk.js": "/airomedical-test-task/static/js/787.0814f333.chunk.js",
+    "index.html": "/airomedical-test-task/index.html",
+    "main.72f33312.css.map": "/airomedical-test-task/static/css/main.72f33312.css.map",
+    "main.d9e8e13a.js.map": "/airomedical-test-task/static/js/main.d9e8e13a.js.map",
+    "787.0814f333.chunk.js.map": "/airomedical-test-task/static/js/787.0814f333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72f33312.css",
+    "static/js/main.d9e8e13a.js"
+  ]
+}
