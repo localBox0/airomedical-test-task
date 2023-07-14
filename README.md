@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+## Beer App. Test Task for AiroMedical LLC
+The test task, including the design and functionality, was implemented according to the technical requirements provided by Pics.io company.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![AiroMedical](https://github.com/localBox0/airomedical-test-task/assets/87381764/9ea14965-f7bb-42a2-ba7f-4700745b1c1f)
 
-## Available Scripts
 
-In the project directory, you can run:
+### Description:
+This ReactJS application showcases a beer catalog, allowing users to explore and discover various beers. Users can browse through a collection of beers, view detailed information about each beer, and explore food pairing suggestions. The application utilizes an API to fetch beer data and provides an intuitive user interface for an engaging beer exploration experience.
 
-### `npm start`
+### Technologies used:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ReactJS
+- Zustand (State management)
+- Material-UI (Styling and UI components)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Key Features:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Interactive User Interface: The application offers a user-friendly interface with smooth navigation and intuitive interactions, enhancing the overall user experience.
+- Dynamic Content: The beer catalog and details are dynamically rendered based on the data fetched from the API, ensuring up-to-date and accurate information.
+- Multi-Selection and Deletion: Enable the ability to select multiple beers using the right-click of the mouse, allowing for efficient bulk actions such as deletion. The selection can be canceled by a repeated click, and selected beers can be removed from the list by clicking a designated button, replacing them with new ones.
+- Beer Catalog: Users can browse through a catalog of beers, each displaying essential information such as name, tagline, first brewed date, ABV, and IBU.
+- Beer Details: By clicking on a beer, users can access detailed information about that particular beer, including its description, volume, brewing method, ingredients, and brewer's tips.
+- Food Pairing Suggestions: Each beer includes a list of food pairing suggestions, providing users with recommendations for culinary combinations.
